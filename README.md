@@ -45,4 +45,3 @@ Após gerar os usuários, você poderá acessar o sistema no papel de administra
 **`email e login - administrador@example.net`**
 
 **`senha - password`**
-
