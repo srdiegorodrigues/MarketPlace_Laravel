@@ -40,8 +40,8 @@ Com a utilização de ambos os recursos foram inseridos automaticamente, no banc
 
 **Após gerar os usuários, você poderá acessar o sistema no papel de administrador com os seguintes dados**
 
-`Nome de usuário - **Administrator`**
+**`Nome de usuário - Administrator`**
 
-`email e login - **administrador@example.net`**
+**`email e login - administrador@example.net`**
 
-`senha - **password`**
+**`senha - password`**
