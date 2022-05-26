@@ -34,14 +34,14 @@ Com a utilização de ambos os recursos foram inseridos automaticamente, no banc
 
 `php artisan key:generate`
 
-Rode o comando abaixo para criar as tableas, usuários, produtos e lojas para fins de teste
+**Rode o comando abaixo para criar as tabelas, usuários, produtos e lojas para fins de teste**
 
 `php artisan migrate --seed`
 
-Após gerar os usuários, você poderá acessar o sistema no papel de administrador com os seguintes dados
+**Após gerar os usuários, você poderá acessar o sistema no papel de administrador com os seguintes dados**
 
-**`Nome de usuário - Administrator`**
+`Nome de usuário - **Administrator`**
 
-**`email e login - administrador@example.net`**
+`email e login - **administrador@example.net`**
 
-**`senha - password`**
+`senha - **password`**
