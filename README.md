@@ -46,5 +46,3 @@ Após gerar os usuários, você poderá acessar o sistema no papel de administra
 
 **`senha - password`**
 
-"# DWFSTCC"  
-"# TCCDWFS" 
