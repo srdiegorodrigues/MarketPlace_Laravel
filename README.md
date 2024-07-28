@@ -16,11 +16,11 @@ Com a utilização de ambos os recursos foram inseridos automaticamente, no banc
 
 **Através do seu terminal, acesse a pasta do seu projeto e execute o seguinte comando:**
 
-`git clone https://github.com/srdiegorodrigues/TCC`
+`git clone https://github.com/srdiegorodrigues/MarketPlace_Laravel`
 
 **Execute o comando abaixo para acessar a nova pasta:**
 
- `cd TCC`
+ `cd MarketPlace_Laravel`
 
 **Após isto, execute o seguinte comando para instalar as dependências do projeto:**
 
